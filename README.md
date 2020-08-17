@@ -8,9 +8,7 @@ This website helps generate and test HTML for a static website
 * Open terminal
 * Download and install Ruby
 ```
-git clone https://github.com/postmodern/ruby-install.git
-cd ruby-install
-ruby-install ruby 2.7
+https://www.ruby-lang.org/en/documentation/installation/
 ```
 * In the website generator code run
 ```
